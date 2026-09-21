@@ -1,23 +1,29 @@
-# 🌤️ Hava Durumu Uygulaması
+# Weather App
 
-JavaScript ile geliştirilmiş gerçek zamanlı hava durumu uygulaması.
+A weather application built with HTML, CSS, JavaScript and the OpenWeatherMap API.
 
-## 🚀 Özellikler
+## Features
 
-- Şehir adına göre hava durumu sorgulama
-- Gerçek zamanlı sıcaklık, nem ve hava durumu bilgisi
-- Enter tuşu desteği
-- Hata yönetimi
+* Search weather information by city name
+* Display temperature, humidity and weather conditions
+* Search with the Enter key
+* Error handling for invalid searches
 
-## 🛠️ Kullanılan Teknolojiler
+## Technologies
 
-- HTML5
-- CSS3
-- JavaScript (Fetch API, Async/Await, DOM)
-- OpenWeatherMap API
+* HTML5
+* CSS3
+* JavaScript
+* Fetch API
+* Async/Await
+* OpenWeatherMap API
 
-## 🔧 Nasıl Kullanılır?
+## How to Use
 
-1. `index.html` dosyasını tarayıcıda aç
-2. Şehir adı gir
-3. Ara butonuna bas veya Enter'a bas!
+1. Open the `index.html` file in a browser.
+2. Enter a city name.
+3. Click the search button or press Enter.
+
+## Project Status
+
+This project was developed to practice working with APIs and asynchronous JavaScript.
